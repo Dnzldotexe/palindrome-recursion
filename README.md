@@ -12,4 +12,4 @@ checking if a string is palindrome or not, but this time, I'll be using recursio
 - The case of letters doesn't matter.
 
 ### REFERENCES:
-(Stack Comprehension)[https://stackoverflow.com/questions/4260280/if-else-in-a-list-comprehension]
+[Stack Comprehension](https://stackoverflow.com/questions/4260280/if-else-in-a-list-comprehension)
